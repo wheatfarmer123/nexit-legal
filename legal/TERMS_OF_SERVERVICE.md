@@ -58,4 +58,4 @@ We may block or remove access to the Bot at any time, with or without notice, in
 You may stop using the Bot at any time by removing it from your server.
 
 ## 11) Contact
-If you have questions or requests about these Terms, contact us via the official support server or the contact method listed in the Privacy Policy.
+If you have questions or requests about these Terms, contact us via the support server - https://discord.gg/Z2AJJB7bH8 or the contact method listed in the Privacy Policy.
