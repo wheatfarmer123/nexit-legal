@@ -1,61 +1,142 @@
-# Terms of Service (TOS)
-**Nexit Security** (“Nexit”, “the Bot”, “we”, “us”, “our”)
+Terms of Service
 
-**Effective Date:** 2026-02-03
+Nexit Security (“Nexit”, “the Bot”, “we”, “us”, “our”)
 
-## 1) Acceptance of these Terms
-By inviting, using, or interacting with Nexit Security (the “Bot”) in any Discord server, you agree to these Terms. If you do not agree, do not use the Bot.
+Effective Date: 2026-02-03
+Last Updated: 2026-02-09
 
-## 2) Who can use the Bot
-You must follow Discord’s Terms, Community Guidelines, and your local laws. If you are not allowed to use Discord, you are not allowed to use the Bot.
+1. Acceptance of These Terms
 
-## 3) What the Bot does
-Nexit Security provides moderation and server-management features, which may include:
-- Moderation actions (e.g., warnings, timeouts, kicks, bans)
-- Anti-spam and anti-raid protections
-- Logging features (if enabled by server staff)
-- Utility commands (status, uptime, server info, etc.)
+By inviting, using, or interacting with Nexit Security in any Discord server, you agree to these Terms of Service (“Terms”).
 
-Features may change over time.
+If you do not agree to these Terms, you must not use the Bot.
 
-## 4) Server Admin Responsibility
-Server owners and admins are responsible for:
-- Configuring permissions correctly
-- Ensuring the Bot has only the permissions it needs
-- Deciding what moderation actions to take and how the Bot is used in their server
-The Bot is a tool; you are responsible for how you use it.
+2. Eligibility
 
-## 5) Premium Features
-Some features may be marked as “Premium” (e.g., boosted support server perks or manual premium). Premium features may change, be updated, or be removed at any time.
+To use Nexit Security, you must:
 
-## 6) Data and Privacy
-Your use of the Bot is also governed by our Privacy Policy:
-- See: `PRIVACY_POLICY.md`
+Comply with Discord’s Terms of Service and Community Guidelines
 
-## 7) Prohibited Use
-You may not use the Bot to:
-- Break Discord rules or laws
-- Harass, abuse, threaten, or discriminate
-- Attempt to exploit, reverse engineer, or disrupt the Bot
-- Use the Bot for malicious automation (raids, spam, token theft, etc.)
+Follow all applicable local, national, and international laws
 
-We may restrict access if we believe the Bot is being misused.
+Be legally permitted to use Discord
 
-## 8) Availability and Changes
-The Bot is provided “as-is” and “as available.” We do not guarantee uptime, reliability, or that it will work perfectly on every device/account at all times.
+If you are not allowed to use Discord, you are not allowed to use this Bot.
 
-We may update, modify, or discontinue the Bot (or parts of it) at any time.
+3. Description of the Service
 
-## 9) Limitation of Liability
+Nexit Security is a Discord moderation and server protection bot that may provide features including, but not limited to:
+
+Moderation actions (warnings, timeouts, kicks, bans, purges)
+
+Anti-spam and anti-raid protections
+
+Channel locking and lockdown tools
+
+Logging features (if enabled by server staff)
+
+Utility commands (status, uptime, server information, help)
+
+Premium-only features
+
+Features may change, be added, or be removed at any time.
+
+4. Server Owner & Administrator Responsibility
+
+Server owners and administrators are solely responsible for:
+
+Correctly configuring the Bot’s permissions
+
+Granting only the permissions they are comfortable with
+
+Deciding how and when moderation actions are used
+
+Ensuring compliance with Discord rules and applicable laws
+
+Nexit Security is a tool. You are responsible for how it is used in your server.
+
+5. Premium Features
+
+Some features are designated as Premium and may require boosting the official support server or manual activation.
+
+Premium features:
+
+May change, be updated, or be removed at any time
+
+Are not guaranteed to be permanent
+
+Do not grant ownership or special rights to the Bot
+
+Abuse of premium features may result in revocation without notice.
+
+6. Data & Privacy
+
+Your use of the Bot is governed by our Privacy Policy, which explains how data is processed and stored.
+
+You can view it here:
+Privacy Policy: PRIVACY_POLICY.md
+
+7. Prohibited Use
+
+You may not use Nexit Security to:
+
+Violate Discord’s Terms of Service or Community Guidelines
+
+Break any applicable laws
+
+Harass, abuse, threaten, or discriminate against others
+
+Conduct raids, spam, or malicious automation
+
+Attempt to exploit, reverse engineer, or disrupt the Bot
+
+Use the Bot for token theft, account compromise, or harmful activities
+
+We reserve the right to restrict or revoke access if misuse is suspected.
+
+8. Availability & Modifications
+
+The Bot is provided “as-is” and “as available.”
+
+We do not guarantee:
+
+Continuous uptime
+
+Error-free operation
+
+Compatibility with every server or configuration
+
+We may modify, suspend, or discontinue the Bot (or any part of it) at any time without prior notice.
+
+9. Limitation of Liability
+
 To the fullest extent permitted by law, we are not liable for:
-- Lost messages, deleted content, or moderation actions
-- Any damages arising from using or being unable to use the Bot
-- Misconfiguration of server permissions or settings
 
-## 10) Termination
-We may block or remove access to the Bot at any time, with or without notice, including for suspected abuse or risk to the Bot or community.
+Lost messages or deleted content
+
+Moderation actions taken by server staff or the Bot
+
+Server misconfiguration or permission errors
+
+Any damages arising from use or inability to use the Bot
+
+You use the Bot at your own risk.
+
+10. Termination
+
+We may suspend or terminate access to the Bot at any time, with or without notice, including (but not limited to):
+
+Abuse or misuse
+
+Risk to the Bot, its infrastructure, or other users
+
+Legal or compliance concerns
 
 You may stop using the Bot at any time by removing it from your server.
 
-## 11) Contact
-If you have questions or requests about these Terms, contact us via the support server - https://discord.gg/Z2AJJB7bH8
+11. Contact
+
+If you have questions or concerns regarding these Terms:
+
+Join the official Nexit Security Support Server
+🔗 https://discord.gg/Z2AJJB7bH8
