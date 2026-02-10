@@ -1,61 +1,162 @@
-# Privacy Policy
-**Nexit Security** (“Nexit”, “the Bot”, “we”, “us”, “our”)
+Privacy Policy
 
-**Effective Date:** 2026-02-03
+Nexit Security (“Nexit”, “the Bot”, “we”, “us”, “our”)
 
-## 1) What this policy covers
-This Privacy Policy explains what data the Bot may process, why, and how it’s used when you interact with Nexit Security in Discord servers.
+Effective Date: 2026-02-03
+Last Updated: 2026-02-09
 
-## 2) Data we may collect/process
-Depending on which features are enabled, the Bot may process and/or store:
-- **User IDs** (for moderation records like warnings, whitelist, premium flags)
-- **Server (Guild) IDs** (to store server configuration such as log channels/settings)
-- **Channel IDs** (for configured logging channels or feature settings)
-- **Moderation records** (e.g., warnings: moderator ID, target user ID, reason, timestamps, optional expiration)
-- **Invite protection entries** (invite codes marked as protected, optional notes)
-- **Anti-spam tracking (temporary)** (short-lived message timing counts used to detect spam)
+1. Scope of This Policy
 
-### What we do NOT intentionally collect
-- We do not ask for passwords
-- We do not store your Discord token
-- We do not intentionally store message content as a general database feature  
-  (Some features may *process* message content in-memory to detect spam or blocked mentions.)
+This Privacy Policy explains how Nexit Security processes data when used in Discord servers. It applies to all servers, users, and administrators who interact with the Bot.
 
-## 3) Why we use the data
-We use the data to:
-- Provide moderation features (warn, timeout, ban, logging)
-- Apply server settings (log channel, anti-spam config, invite protection)
-- Prevent abuse and keep servers safe (anti-spam/anti-raid features)
-- Support premium features and role checks
+By using Nexit Security, you agree to the practices described in this policy.
 
-## 4) Where data is stored
-Data is stored in a database used by the Bot (commonly SQLite or a hosted database), controlled by the Bot operator.
+2. Data We Process
 
-## 5) Data retention
-We keep data only as long as needed for the features you use:
-- Server settings: retained until changed or the Bot is removed
-- Warnings: retained until removed/expired (if expiration is enabled)
-- Temporary anti-spam tracking: short-lived and not intended as long-term storage
+Nexit Security only processes the minimum data required to function.
 
-## 6) Sharing your data
-We do not sell your data. We only share data if:
-- Required by law, legal process, or to protect users from harm/abuse
-- Needed to operate the Bot with trusted infrastructure providers (hosting), where applicable
+Data that may be processed or stored
 
-## 7) Security
-We take reasonable steps to protect stored data, but no system is 100% secure. You use the Bot at your own risk.
+Depending on enabled features, the Bot may process and/or store:
 
-## 8) Your choices and controls
-Server admins control most data by controlling features:
-- Removing warnings
-- Clearing warnings
-- Disabling logging
-- Removing the Bot from the server (stops future collection)
+User IDs
 
-## 9) Requests (Deletion / Questions)
-If you want data removed (where applicable) or have questions:
-- Contact us through the official support server or the listed contact method.
-Include your **User ID** and the **Server ID** involved so we can find the correct records.
+Used for moderation actions (warnings, timeouts, bans)
 
-## 10) Changes to this policy
-We may update this Privacy Policy. Continued use of the Bot after changes means you accept the updated policy.
+Used for global whitelist and premium-related checks
+
+Server (Guild) IDs
+
+Used to store server-specific settings (logging, anti-spam, invite protection)
+
+Channel IDs
+
+Used to identify configured log channels or feature-specific channels
+
+Moderation Records
+
+Warning ID
+
+Target user ID
+
+Moderator ID
+
+Reason
+
+Timestamps
+
+Optional expiration time
+
+Invite Protection Data
+
+Invite codes marked as protected
+
+Optional admin-provided notes
+
+Anti-Spam Detection Data (Temporary)
+
+Short-lived message timing data used to detect spam
+
+Stored in memory only and cleared automatically
+
+3. Data We Do NOT Collect
+
+Nexit Security does not intentionally collect or store:
+
+Discord passwords
+
+Discord authentication tokens
+
+Email addresses
+
+IP addresses
+
+Message content as a permanent database feature
+
+Some features may temporarily process message content in memory (for example, spam detection or blocked mention detection). This data is not stored long-term.
+
+4. Why We Use This Data
+
+We use processed data strictly to:
+
+Provide moderation features (warn, timeout, ban, purge, logging)
+
+Apply server-specific configuration (log channels, anti-spam settings)
+
+Prevent abuse, raids, and spam
+
+Enable and verify premium features
+
+Improve reliability and security of the Bot
+
+5. Data Storage
+
+Data is stored in a database used by the Bot (commonly SQLite or a secure hosted database), controlled solely by the Bot operator.
+
+We do not expose this data publicly.
+
+6. Data Retention
+
+Data is retained only as long as necessary:
+
+Server settings: Stored until changed or the Bot is removed
+
+Warnings: Stored until manually removed or automatically expired (if enabled)
+
+Temporary anti-spam data: Short-lived and cleared automatically
+
+Premium records: Stored while premium is active
+
+Removing the Bot from a server stops all future data collection for that server.
+
+7. Data Sharing
+
+We do not sell, rent, or trade user data.
+
+Data may only be shared if:
+
+Required by law or legal process
+
+Necessary to protect users or prevent abuse
+
+Required to operate the Bot using trusted infrastructure providers (e.g., hosting services)
+
+8. Security
+
+We take reasonable technical and organizational measures to protect stored data. However, no system can guarantee absolute security.
+
+Use of the Bot is at your own risk.
+
+9. User & Server Controls
+
+Server administrators control most data handling by:
+
+Enabling or disabling features
+
+Removing or clearing warnings
+
+Disabling logging
+
+Removing the Bot from the server
+
+These actions directly affect what data is stored.
+
+10. Data Requests & Contact
+
+If you have questions or wish to request data removal (where applicable):
+
+Contact us through the official Nexit Security support server
+
+Include:
+
+Your User ID
+
+The Server ID involved
+
+This allows us to locate the correct records.
+
+11. Changes to This Policy
+
+We may update this Privacy Policy at any time.
+
+Continued use of Nexit Security after updates means you accept the revised policy.
