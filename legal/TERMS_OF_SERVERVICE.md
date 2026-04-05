@@ -134,4 +134,4 @@ You may stop using the Bot at any time by removing it from your server.
 
 If you have questions or concerns regarding these Terms:
 
-Join the official Nexit Security Support Server — [discord.gg/Z2AJJB7bH8](https://discord.gg/Z2AJJB7bH8)
+Join the official Nexit Security Support Server — https://discord.gg/Z2AJJB7bH8
